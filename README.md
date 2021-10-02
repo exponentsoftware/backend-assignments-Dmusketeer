@@ -1,3 +1,9 @@
+## command to run :
+  -`npm start bin/dev` 
+
+
+
+
 # Backend Assignment
 
 ## TODO List
